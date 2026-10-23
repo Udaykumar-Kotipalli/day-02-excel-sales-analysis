@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,Sales Channel,Product,Category,Quantity,Unit Price (INR),Discount Rate,Gross Sales (INR),Discount Amount (INR),Net Sales (INR)
+ORD-0001,2025-03-02,North,Online,Monitor 24-inch,Electronics,5,9157.96,0.15,45789.8,6868.47,38921.33
+ORD-0002,2025-11-04,Central,Marketplace,Desk Organizer,Stationery,5,515.97,0.1,2579.85,257.99,2321.86
+ORD-0003,2025-09-09,North,Online,Desk Organizer,Stationery,4,469.21,0,1876.84,0.0,1876.84
+ORD-0004,2025-05-28,West,Marketplace,Mechanical Keyboard,Accessories,4,2593.39,0,10373.56,0.0,10373.56
+ORD-0005,2025-06-10,East,Retail Store,Laptop Stand,Accessories,4,1275.25,0.05,5101.0,255.05,4845.95
+ORD-0006,2025-09-20,Central,Retail Store,Office Chair,Furniture,1,7129.75,0.05,7129.75,356.49,6773.26
+ORD-0007,2025-05-28,East,Retail Store,Headphones,Electronics,2,1953.18,0.15,3906.36,585.95,3320.41
+ORD-0008,2025-08-25,Central,Retail Store,Webcam HD,Electronics,1,2930.32,0.1,2930.32,293.03,2637.29
+ORD-0009,2025-03-01,West,Marketplace,Webcam HD,Electronics,5,2925.1,0.15,14625.5,2193.82,12431.68
+ORD-0010,2025-05-13,North,Marketplace,Webcam HD,Electronics,5,2803.35,0.1,14016.75,1401.68,12615.07
+ORD-0011,2025-04-25,North,Marketplace,USB-C Hub,Accessories,1,1987.15,0.15,1987.15,298.07,1689.08
+ORD-0012,2025-11-15,South,Online,Webcam HD,Electronics,4,2792.99,0,11171.96,0.0,11171.96
+ORD-0013,2025-11-17,Central,Retail Store,Study Desk,Furniture,4,6153.43,0.1,24613.72,2461.37,22152.35
+ORD-0014,2025-10-14,Central,Marketplace,Webcam HD,Electronics,3,2899.7,0.15,8699.1,1304.87,7394.23
+ORD-0015,2025-09-03,East,Online,Webcam HD,Electronics,4,2729.93,0,10919.72,0.0,10919.72
+ORD-0016,2025-01-17,West,Retail Store,USB-C Hub,Accessories,5,1968.17,0.1,9840.85,984.09,8856.76
+ORD-0017,2025-04-13,south ,Retail Store,Bluetooth Speaker,Electronics,4,3303.46,0.1,13213.84,1321.38,11892.46
+ORD-0018,2025-10-13,North,Retail Store,Office Chair,Furniture,1,7334.01,0.05,7334.01,366.7,6967.31
+ORD-0019,2025-12-19,South,Retail Store,Study Desk,Furniture,5,5965.11,0.05,29825.55,1491.28,28334.27
+ORD-0020,2025-09-03,South,Marketplace,Mechanical Keyboard,Accessories,3,2460.05,0.1,7380.15,738.01,6642.14
+ORD-0021,2025-07-30,West,Marketplace,USB-C Hub,Accessories,4,1806.06,0,7224.24,0.0,7224.24
+ORD-0022,2025-10-07,Central,Online,Mechanical Keyboard,Accessories,5,2423.38,0,12116.9,0.0,12116.9
+ORD-0023,2025-10-07,Central,Marketplace,Bluetooth Speaker,Electronics,3,3103.09,0,9309.27,0.0,9309.27
+ORD-0024,2025-09-09,Central,Online,Study Desk,Furniture,2,5799.54,0.15,11599.08,1739.86,9859.22
+ORD-0025,2025-11-03,South,Online,Study Desk,Furniture,5,5699.84,0.05,28499.2,1424.96,27074.24
+ORD-0026,2025-10-28,South,Marketplace,Bluetooth Speaker,Electronics,5,3255.61,0.1,16278.05,1627.81,14650.24
+ORD-0027,2025-04-11,North,Online,Webcam HD,Electronics,1,2761.83,0,2761.83,0.0,2761.83
+ORD-0028,2025-06-27,West,Retail Store,Office Chair,Furniture,3,7072.08,0,21216.24,0.0,21216.24
+ORD-0029,2025-12-16,West,Retail Store,Bluetooth Speaker,Electronics,4,3462.88,0.05,13851.52,692.58,13158.94
+ORD-0030,2025-10-20,South,Retail Store,Desk Organizer,Stationery,2,504.46,0,1008.92,0.0,1008.92
+ORD-0031,2025-11-16,North,Marketplace,Monitor 24-inch,Electronics,4,8711.02,0.15,34844.08,5226.61,29617.47
+ORD-0032,2025-07-24,Central,Online,Wireless Mouse,Accessories,2,755.4,0,1510.8,0.0,1510.8
+ORD-0033,2025-08-20,North,Online,Office Chair,Furniture,2,7688.83,0.1,15377.66,1537.77,13839.89
+ORD-0034,2025-11-27,South,Online,Notebook Set,Stationery,2,260.79,0.15,521.58,78.24,443.34
+ORD-0035,2025-12-05,West,Online,USB-C Hub,Accessories,4,1881.99,0.05,7527.96,376.4,7151.56
+ORD-0036,2025-07-16,West,Retail Store,Bluetooth Speaker,Electronics,2,3170.22,0.05,6340.44,317.02,6023.42
+ORD-0037,2025-08-01,West,Retail Store,Bluetooth Speaker,Electronics,4,3230.03,0,12920.12,0.0,12920.12
+ORD-0038,2025-03-03,South,Online,Notebook Set,Stationery,5,258.45,0.05,1292.25,64.61,1227.64
+ORD-0039,2025-01-03,South,Online,Mechanical Keyboard,Accessories,4,2471.41,0.05,9885.64,494.28,9391.36
+ORD-0040,2025-06-30,Central,Online,USB-C Hub,Accessories,3,1941.65,0.15,5824.95,873.74,4951.21
+ORD-0041,2025-02-26,South,Marketplace,Desk Organizer,Stationery,3,514.04,0.15,1542.12,231.32,1310.8
+ORD-0042,2025-05-31,East,Online,Desk Organizer,Stationery,3,477.0,0.15,1431.0,214.65,1216.35
+ORD-0043,2025-08-12,South,Marketplace,USB-C Hub,Accessories,1,1958.05,0,1958.05,0.0,1958.05
+ORD-0044,2025-11-19,North,Retail Store,Mechanical Keyboard,Accessories,5,2432.06,0.05,12160.3,608.01,11552.29
+ORD-0045,2025-06-11,West,Retail Store,USB-C Hub,Accessories,3,1799.39,0.05,5398.17,269.91,5128.26
+ORD-0046,2025-08-01,East,Online,Wireless Mouse,Accessories,1,773.61,0,773.61,0.0,773.61
+ORD-0047,2025-02-18,East,Retail Store,Office Chair,Furniture,5,7938.21,0.15,39691.05,5953.66,33737.39
+ORD-0048,2025-08-22,East,Marketplace,Wireless Mouse ,Stationery,5,524.43,0,2622.15,0.0,2622.15
+ORD-0049,2025-04-21,North,Marketplace,Desk Organizer,Stationery,4,527.69,0.1,2110.76,211.08,1899.68
+ORD-0050,2025-07-11,East,Online,Notebook Set,Stationery,3,242.78,0.1,728.34,72.83,655.51
+ORD-0051,2025-08-12,North,Retail Store,Wireless Mouse,Accessories,3,778.82,0.05,2336.46,116.82,2219.64
+ORD-0052,2025-08-02,East,Online,Monitor 24-inch,Electronics,5,9044.52,0,45222.6,0.0,45222.6
+ORD-0053,2025-10-15,North,Online,Wireless Mouse,Accessories,1,810.41,0,810.41,0.0,810.41
+ORD-0054,2025-03-06,East,Online,Notebook Set,Stationery,3,253.42,0.15,760.26,114.04,646.22
+ORD-0055,2025-08-06,West,Online,Desk Organizer,Stationery,2,493.93,0.05,987.86,49.39,938.47
+ORD-0056,2025-08-04,North,Marketplace,Office Chair,Furniture,2,7214.16,0,14428.32,0.0,14428.32
+ORD-0057,2025-10-05,South,Online,Office Chair,Furniture,5,7849.18,0.1,39245.9,3924.59,35321.31
+ORD-0058,2025-01-12,East,Retail Store,Wireless Mouse,Accessories,3,796.97,0.15,2390.91,358.64,2032.27
+ORD-0059,2025-03-12,Central,Online,Office Chair,Furniture,5,7804.56,0,39022.8,0.0,39022.8
+ORD-0060,2025-11-29,East,Online,Notebook Set,Stationery,3,252.97,0.05,758.91,37.95,720.96
+ORD-0061,2025-12-03,South,Marketplace,Wireless Mouse,Accessories,2,756.65,0.1,1513.3,151.33,1361.97
+ORD-0062,2025-09-18,South,Marketplace,USB-C Hub,Accessories,4,2001.77,0.05,8007.08,400.35,7606.73
+ORD-0063,2025-05-22,West,Marketplace,Monitor 24-inch,Electronics,2,8846.85,0.05,17693.7,884.69,16809.01
+ORD-0064,2025-08-31,West,Online,Office Chair,Furniture,5,7218.15,0.05,36090.75,1804.54,34286.21
+ORD-0065,2025-09-06,North,Marketplace,Wireless Mouse,Accessories,3,818.4,0.15,2455.2,368.28,2086.92
+ORD-0066,2025-03-30,East,Online,Mechanical Keyboard,Accessories,3,2513.01,0.05,7539.03,376.95,7162.08
+ORD-0067,2025-02-21,Central,Retail Store,Wireless Mouse,Accessories,5,832.54,0,4162.7,0.0,4162.7
+ORD-0068,2025-10-21,Central,Marketplace,Wireless Mouse,Accessories,4,802.74,0.1,3210.96,321.1,2889.86
+ORD-0069,2025-12-05,West,Retail Store,USB-C Hub,Accessories,5,1804.55,0,9022.75,0.0,9022.75
+ORD-0070,2025-10-08,South,Online,Bluetooth Speaker,Electronics,3,3392.95,0,10178.85,0.0,10178.85
+ORD-0071,2025-05-30,West,Online,Bluetooth Speaker,Electronics,5,3242.48,0.05,16212.4,810.62,15401.78
+ORD-0072,2025-11-19,East,Marketplace,Wireless Mouse,Accessories,5,841.11,0.1,4205.55,420.56,3784.99
+ORD-0073,2025-03-29,Central,Online,Study Desk,Furniture,5,5768.37,0,28841.85,0.0,28841.85
+ORD-0074,2025-03-25,North,Retail Store,Wireless Mouse,Accessories,1,815.08,0.15,815.08,122.26,692.82
+ORD-0075,2025-02-02,Central,Marketplace,Monitor 24-inch,Electronics,3,9033.7,0,27101.1,0.0,27101.1
+ORD-0076,2025-05-08,North,Retail Store,USB-C Hub,Accessories,1,1895.48,0.05,1895.48,94.77,1800.71
+ORD-0077,2025-05-15,West,Online,Desk Organizer,Stationery,3,489.89,0,1469.67,0.0,1469.67
+ORD-0078,2025-10-12,West,Marketplace,Notebook Set,Stationery,2,254.48,0.05,508.96,25.45,483.51
+ORD-0079,2025-06-26,East,Retail Store,Mechanical Keyboard,Accessories,1,2591.49,0,2591.49,0.0,2591.49
+ORD-0080,2025-12-05,Central,Retail Store,Laptop Stand,Accessories,2,1288.49,0.05,2576.98,128.85,2448.13
+ORD-0081,2025-06-15,South,Retail Store,Study Desk,Furniture,4,5864.87,0.1,23459.48,2345.95,21113.53
+ORD-0082,2025-04-23,Central,Retail Store,Study Desk,Furniture,3,5933.99,0.05,17801.97,890.1,16911.87
+ORD-0083,2025-04-19,South,Retail Store,USB-C Hub,Accessories,4,1934.74,0.15,7738.96,1160.84,6578.12
+ORD-0084,2025-05-18,West,Retail Store,Monitor 24-inch,Electronics,0,8746.8,0.05,8746.8,437.34,8309.46
+ORD-0085,2025-03-16,South,Marketplace,Notebook Set,Stationery,3,243.97,0,731.91,0.0,731.91
+ORD-0086,2025-03-05,West,Retail Store,Bluetooth Speaker,Electronics,3,3282.4,0.15,9847.2,1477.08,8370.12
+ORD-0087,2025-01-12,West,Marketplace,Notebook Set,Stationery,3,244.12,0.1,732.36,73.24,659.12
+ORD-0088,2025-11-21,East,Marketplace,Office Chair,Furniture,5,7237.96,0.15,36189.8,5428.47,30761.33
+ORD-0089,2025-06-19,Central,Marketplace,Wireless Mouse,Accessories,4,752.07,0,3008.28,0.0,3008.28
+ORD-0090,2025-05-10,West,Retail Store,USB-C Hub,Accessories,3,1931.9,0.15,5795.7,869.35,4926.35
+ORD-0091,2025-09-05,North,Marketplace,Monitor 24-inch,Electronics,1,9276.82,0,9276.82,0.0,9276.82
+ORD-0092,2025-05-18,Central,Retail Store,Monitor 24-inch,Electronics,1,9312.97,0,9312.97,0.0,9312.97
+ORD-0093,2025-11-15,South,Marketplace,Office Chair,Furniture,3,7549.18,0,22647.54,0.0,22647.54
+ORD-0094,2025-01-06,West,Online,Mechanical Keyboard,Accessories,2,2640.64,0.05,5281.28,264.06,5017.22
+ORD-0095,2025-11-07,West,Marketplace,Office Chair,Furniture,2,7124.9,0.05,14249.8,712.49,13537.31
+ORD-0096,2025-09-25,North,Retail Store,Office Chair,Furniture,5,7168.97,0.15,35844.85,5376.73,30468.12
+ORD-0097,2025-08-03,South,Retail Store,Wireless Mouse,Accessories,2,821.46,0.15,1642.92,246.44,1396.48
+ORD-0098,2025-12-03,Central,Retail Store,Office Chair,Furniture,3,7361.69,0.05,22085.07,1104.25,20980.82
+ORD-0099,2025-05-11,West,Online,Headphones,Electronics,3,1887.87,0.05,5663.61,283.18,5380.43
+ORD-0100,2025-01-12,West,Online,Headphones,Electronics,3,2079.72,0.05,6239.16,311.96,5927.2
+ORD-0101,2025-07-08,Central,Online,Bluetooth Speaker,Electronics,5,3221.43,0.1,16107.15,1610.72,14496.43
+ORD-0102,2025-07-30,East,Retail Store,Mechanical Keyboard,Accessories,5,2578.72,0.15,12893.6,1934.04,10959.56
+ORD-0103,2025-11-12,West,Retail Store,Mechanical Keyboard,Accessories,5,2527.74,0.15,12638.7,1895.81,10742.89
+ORD-0104,2025-12-05,Central,Online,Monitor 24-inch,Electronics,3,8543.36,0,25630.08,0.0,25630.08
+ORD-0105,2025-05-12,Central,Online,Notebook Set,Stationery,5,252.9,0.1,1264.5,126.45,1138.05
+ORD-0106,2025-01-15,Central,Online,Headphones,Electronics,2,1981.97,0,3963.94,0.0,3963.94
+ORD-0107,2025-09-21,East,Retail Store,Laptop Stand,Accessories,3,1242.37,0.1,3727.11,372.71,3354.4
+ORD-0108,2025-11-30,South,Online,Webcam HD,Electronics,5,2874.96,0.15,14374.8,2156.22,12218.58
+ORD-0109,2025-11-07,Central,Online,Notebook Set,Stationery,2,237.98,0,475.96,0.0,475.96
+ORD-0110,2025-12-08,South,Online,Wireless Mouse,Accessories,3,841.28,0.05,2523.84,126.19,2397.65
+ORD-0111,2025-05-17,South,Marketplace,Notebook Set,Stationery,3,247.72,0,743.16,0.0,743.16
+ORD-0112,2025-01-28,West,Marketplace,USB-C Hub,Accessories,2,1931.18,0.1,3862.36,386.24,3476.12
+ORD-0113,2025-01-15,Central,Online,Bluetooth Speaker,Electronics,2,3245.22,0.15,6490.44,973.57,5516.87
+ORD-0114,2025-08-27,South,Marketplace,Office Chair,Furniture,4,7859.07,0,31436.28,0.0,31436.28
+ORD-0115,2025-09-18,East,Marketplace,Wireless Mouse,Accessories,4,756.64,0,3026.56,0.0,3026.56
+ORD-0116,2025-12-27,South,Marketplace,Study Desk,Furniture,3,6183.83,0.05,18551.49,927.57,17623.92
+ORD-0117,2025-04-08,South,Online,Mechanical Keyboard,Accessories,4,2408.87,0.1,9635.48,963.55,8671.93
+ORD-0118,2025-04-26,Central,Retail Store,Office Chair,Furniture,4,7384.13,0,29536.52,0.0,29536.52
+ORD-0119,2025-08-05,West,Marketplace,Headphones,Electronics,3,2111.37,0,6334.11,0.0,6334.11
+ORD-0120,2025-11-07,North,Online,Headphones,Electronics,1,2056.34,0,2056.34,0.0,2056.34
+ORD-0121,2025-07-01,South,Marketplace,Study Desk,Furniture,5,5721.95,0,28609.75,0.0,28609.75
+ORD-0122,2025-08-10,South,Marketplace,Laptop Stand,Accessories,4,,0,5225.24,0.0,5225.24
+ORD-0123,2025-11-21,West,Marketplace,Bluetooth Speaker,Electronics,3,3258.74,0.05,9776.22,488.81,9287.41
+ORD-0124,2025-08-24,North,Online,Bluetooth Speaker,Electronics,3,3490.89,0.1,10472.67,1047.27,9425.4
+ORD-0125,2025-10-14,Central,Online,Laptop Stand,Accessories,3,1279.89,0.1,3839.67,383.97,3455.7
+ORD-0126,2025-12-24,North,Retail Store,Office Chair,Furniture,5,7728.38,0.05,38641.9,1932.1,36709.8
+ORD-0127,2025-08-28,North,Retail Store,Monitor 24-inch,Electronics,5,9345.6,0.15,46728.0,7009.2,39718.8
+ORD-0128,2025-06-01,Central,Retail Store,Wireless Mouse,Accessories,1,755.07,0.15,755.07,113.26,641.81
+ORD-0129,2025-10-16,Central,Retail Store,Mechanical Keyboard,Accessories,4,2636.77,0.15,10547.08,1582.06,8965.02
+ORD-0130,2025-10-04,North,Retail Store,Wireless Mouse,Accessories,2,763.94,0.05,1527.88,76.39,1451.49
+ORD-0131,2025-02-17,North,Marketplace,USB-C Hub,Accessories,5,1789.22,0.05,8946.1,447.31,8498.79
+ORD-0132,2025-02-06,East,Marketplace,Desk Organizer,Stationery,5,512.92,0,2564.6,0.0,2564.6
+ORD-0133,2025-03-20,West,Marketplace,Bluetooth Speaker,Electronics,4,3228.63,0,12914.52,0.0,12914.52
+ORD-0134,2025-05-05,East,Retail Store,Webcam HD,Electronics,2,2920.32,0.15,5840.64,876.1,4964.54
+ORD-0135,2025-01-22,South,Online,Headphones,Electronics,2,1923.27,0.15,3846.54,576.98,3269.56
+ORD-0136,2025-10-29,North,Retail Store,Headphones,Electronics,5,1994.88,0.1,9974.4,997.44,8976.96
+ORD-0137,2025-04-22,South,Retail Store,Webcam HD,Electronics,1,2787.39,0.15,2787.39,418.11,2369.28
+ORD-0138,2025-05-04,Central,Online,Notebook Set,Stationery,3,256.98,0.05,770.94,38.55,732.39
+ORD-0139,2025-06-30,North,Marketplace,Desk Organizer,Stationery,5,526.14,0,2630.7,0.0,2630.7
+ORD-0140,2025-07-08,West,Retail Store,Laptop Stand,Accessories,5,1307.52,0,6537.6,0.0,6537.6
+ORD-0141,2025-02-26,South,Online,Mechanical Keyboard,Accessories,4,2641.87,0.1,10567.48,1056.75,9510.73
+ORD-0142,2025-01-27,East,Online,Bluetooth Speaker,Electronics,2,3206.52,0.15,6413.04,961.96,5451.08
+ORD-0143,2025-05-11,Central,Online,USB-C Hub,Accessories,1,1946.09,0,1946.09,0.0,1946.09
+ORD-0144,2025-08-18,West,Marketplace,Notebook Set,Stationery,1,262.74,0.05,262.74,13.14,249.6
+ORD-0145,2025-11-19,North,Online,Wireless Mouse,Accessories,2,755.57,0.1,1511.14,151.11,1360.03
+ORD-0146,2025-11-30,Central,Marketplace,Mechanical Keyboard,Accessories,3,2351.25,0,7053.75,0.0,7053.75
+ORD-0147,2025-01-23,Central,Online,Headphones,Electronics,3,2091.5,0,6274.5,0.0,6274.5
+ORD-0148,2025-10-08,West,Online,Office Chair,Furniture,5,7535.19,0.15,37675.95,5651.39,32024.56
+ORD-0149,2025-10-05,North,Online,Monitor 24-inch,Electronics,2,8883.43,0.15,17766.86,2665.03,15101.83
+ORD-0150,2025-01-17,West,Marketplace,Wireless Mouse,Accessories,4,804.36,0.1,3217.44,321.74,2895.7
+ORD-0151,2025-11-15,South,Marketplace,USB-C Hub,Accessories,2,1822.57,0,3645.14,0.0,3645.14
+ORD-0152,2025-06-22,North,Retail Store,Webcam HD,Electronics,3,2788.29,0,8364.87,0.0,8364.87
+ORD-0153,2025-02-08,South,Retail Store,Study Desk,Furniture,2,6260.08,0.15,12520.16,1878.02,10642.14
+ORD-0154,2025-12-22,North,Online,USB-C Hub,Accessories,3,1897.86,0,5693.58,0.0,5693.58
+ORD-0155,2025-01-01,Central,Retail Store,Webcam HD,Electronics,1,2842.42,0.1,2842.42,284.24,2558.18
+ORD-0156,2025-09-20,East,Online,Monitor 24-inch,Electronics,1,8481.75,0.15,8481.75,1272.26,7209.49
+ORD-0157,2025-03-01,Central,Marketplace,Webcam HD,Electronics,2,2830.79,0.05,5661.58,283.08,5378.5
+ORD-0158,2025-10-18,North,Retail Store,USB-C Hub,Accessories,3,1787.45,0.15,5362.35,804.35,4558.0
+ORD-0159,2025-03-31,West,Online,Study Desk,Furniture,4,5708.95,0.15,22835.8,3425.37,19410.43
+ORD-0160,2025-11-07,North,Marketplace,Notebook Set,Stationery,4,236.08,0,944.32,0.0,944.32
+ORD-0161,2025-09-28,North,Retail Store,Bluetooth Speaker,Electronics,2,3473.3,0.1,6946.6,694.66,6251.94
+ORD-0162,2025-11-08,North,Retail Store,Bluetooth Speaker,Electronics,2,3351.86,0.1,6703.72,670.37,6033.35
+ORD-0163,2025-10-28,West,Online,Mechanical Keyboard,Accessories,1,2598.54,0,2598.54,0.0,2598.54
+ORD-0164,2025-07-17,East,Retail Store,Bluetooth Speaker,Electronics,4,3389.23,0.1,13556.92,1355.69,12201.23
+ORD-0165,2025-08-17,East,Online,Study Desk,Furniture,5,5977.04,0.1,29885.2,2988.52,26896.68
+ORD-0166,2025-02-22,East,Marketplace,Desk Organizer,Stationery,5,481.31,0,2406.55,0.0,2406.55
+ORD-0167,2025-07-26,South,Retail Store,Laptop Stand,Accessories,3,1345.78,0,4037.34,0.0,4037.34
+ORD-0168,2025-03-07,Central,Marketplace,Desk Organizer,Stationery,3,492.69,0.15,1478.07,221.71,1256.36
+ORD-0169,2025-06-05,East,Retail Store,Notebook Set,Stationery,5,254.78,0.1,1273.9,127.39,1146.51
+ORD-0170,2025-05-05,Central,Online,USB-C Hub,Accessories,5,1793.59,0.05,8967.95,448.4,8519.55
+ORD-0171,2025-06-03,West,Marketplace,USB-C Hub,Accessories,4,1813.55,0.15,7254.2,1088.13,6166.07
+ORD-0172,2025-09-12,North,Marketplace,Office Chair,Furniture,1,7325.44,0.15,7325.44,1098.82,6226.62
+ORD-0173,2025-09-21,South,Marketplace,Monitor 24-inch,Electronics,5,9362.29,0.05,46811.45,2340.57,44470.88
+ORD-0174,2025-11-19,Central,Marketplace,Notebook Set,Stationery,5,258.0,0.05,1290.0,64.5,1225.5
+ORD-0175,2025-06-29,West,Marketplace,Monitor 24-inch,Electronics,4,8697.23,0.15,34788.92,5218.34,29570.58
+ORD-0176,2025-08-08,South,Marketplace,Webcam HD,Electronics,5,2917.95,0.05,14589.75,729.49,13860.26
+ORD-0177,2025-10-27,South,Online,Webcam HD,Electronics,3,2667.0,0,8001.0,0.0,8001.0
+ORD-0178,2025-09-09,South,Retail Store,Desk Organizer,Stationery,4,528.79,0.1,2115.16,211.52,1903.64
+ORD-0179,2025-09-20,North,Online,Laptop Stand,Accessories,3,1306.07,0,3918.21,0.0,3918.21
+ORD-0180,2025-04-22,Central,Marketplace,Webcam HD,Electronics,1,2833.09,0.1,2833.09,283.31,2549.78
+ORD-0181,2025-02-20,North,Online,Webcam HD,Electronics,2,2735.39,0.05,5470.78,273.54,5197.24
+ORD-0182,2025-02-03,North,Marketplace,Monitor 24-inch,Electronics,2,9136.51,0.1,18273.02,1827.3,16445.72
+ORD-0183,2025-02-24,South,Online,Laptop Stand,Accessories,5,1274.2,0.1,6371.0,637.1,5733.9
+ORD-0184,2025-02-14,North,Marketplace,Monitor 24-inch,Electronics,2,8937.84,0,17875.68,0.0,17875.68
+ORD-0185,2025-08-05,West,Online,USB-C Hub,Accessories,1,1941.33,0,1941.33,0.0,1941.33
+ORD-0186,2025-08-15,North,Online,Headphones,Electronics,1,1993.14,0.1,1993.14,199.31,1793.83
+ORD-0187,2025-07-28,Central,Marketplace,USB-C Hub,Accessories,4,1843.34,0,7373.36,0.0,7373.36
+ORD-0188,2025-05-08,North,Online,Webcam HD,Electronics,1,2950.55,0.05,2950.55,147.53,2803.02
+ORD-0189,2025-11-05,West,Online,Desk Organizer,Stationery,3,515.53,0.05,1546.59,77.33,1469.26
+ORD-0190,2025-12-22,North,Marketplace,Laptop Stand,Accessories,3,1285.05,0,3855.15,0.0,3855.15
+ORD-0191,2025-11-13,Central,Retail Store,Bluetooth Speaker,Electronics,3,3440.66,0.1,10321.98,1032.2,9289.78
+ORD-0192,2025-04-30,West,Retail Store,Study Desk,Furniture,5,5769.56,0.15,28847.8,4327.17,24520.63
+ORD-0193,2025-01-18,East,Retail Store,Notebook Set,Stationery,5,249.82,0.05,1249.1,62.45,1186.65
+ORD-0194,2025-05-14,Central,Retail Store,Laptop Stand,Accessories,5,1246.47,0.1,6232.35,623.24,5609.11
+ORD-0195,2025-05-16,South,Marketplace,Bluetooth Speaker,Electronics,1,3198.76,0.15,3198.76,479.81,2718.95
+ORD-0196,2025-11-01,West,Marketplace,Monitor 24-inch,Electronics,3,9172.87,0,27518.61,0.0,27518.61
+ORD-0197,2025-08-06,North,Retail Store,Desk Organizer,Stationery,4,491.6,0.15,1966.4,294.96,1671.44
+ORD-0198,2025-08-09,West,Retail Store,Office Chair,Furniture,4,7341.02,0.15,29364.08,4404.61,24959.47
+ORD-0199,2025-01-08,West,Online,Monitor 24-inch,Electronics,4,9314.7,0.05,37258.8,1862.94,35395.86
+ORD-0200,2025-07-04,East,Marketplace,Webcam HD,Electronics,4,2833.66,0,11334.64,0.0,11334.64
+ORD-0201,2025-10-06,West,Retail Store,Wireless Mouse,Accessories,1,792.46,0.05,792.46,39.62,752.84
+ORD-0202,2025-12-30,North,Online,Bluetooth Speaker,Electronics,1,3187.47,0,3187.47,0.0,3187.47
+ORD-0203,2025-04-01,North,Marketplace,Wireless Mouse,Accessories,3,802.81,0.15,2408.43,361.26,2047.17
+ORD-0204,2025-11-10,South,Online,Notebook Set,Stationery,5,235.68,0.15,1178.4,176.76,1001.64
+ORD-0205,2025-08-03,North,Marketplace,Laptop Stand,Accessories,1,1362.57,0,1362.57,0.0,1362.57
+ORD-0206,2025-07-18,Central,Online ,Wireless Mouse,Accessories,2,844.08,0.1,1688.16,168.82,1519.34
+ORD-0207,2025-01-13,West,Online,Bluetooth Speaker,Electronics,4,3321.46,0.05,13285.84,664.29,12621.55
+ORD-0208,2025-01-27,Central,Online,Webcam HD,Electronics,3,2720.9,0,8162.7,0.0,8162.7
+ORD-0209,2025-11-07,Central,Retail Store,Webcam HD,Electronics,1,2783.34,0,2783.34,0.0,2783.34
+ORD-0210,2025-09-02,North,Online,Headphones,Electronics,2,1948.01,0,3896.02,0.0,3896.02
+ORD-0211,2025-08-09,South,Online,Laptop Stand,Accessories,3,1302.72,0.1,3908.16,390.82,3517.34
+ORD-0212,2025-06-14,South,Retail Store,USB-C Hub,Accessories,3,1987.09,0,5961.27,0.0,5961.27
+ORD-0213,2025-07-17,North,Retail Store,Mechanical Keyboard,Accessories,3,2639.09,0.1,7917.27,791.73,7125.54
+ORD-0214,2025-10-23,South,Retail Store,Office Chair,Furniture,1,7546.21,0.05,7546.21,377.31,7168.9
+ORD-0215,2025-05-12,Central,Online,Mechanical Keyboard,Accessories,3,2517.67,0.15,7553.01,1132.95,6420.06
+ORD-0216,2025-12-20,South,Online,Laptop Stand,Accessories,4,1275.26,0.15,5101.04,765.16,4335.88
+ORD-0217,2025-03-18,West,Retail Store,Laptop Stand,Accessories,5,1327.55,0.05,6637.75,331.89,6305.86
+ORD-0218,2025-10-29,South,Retail Store,Office Chair,Furniture,4,7220.99,0.05,28883.96,1444.2,27439.76
+ORD-0219,2025-08-31,East,Marketplace,Mechanical Keyboard,Accessories,5,2535.95,0,12679.75,0.0,12679.75
+ORD-0220,2025-01-26,West,Marketplace,Notebook Set,Stationery,3,255.54,0,766.62,0.0,766.62
+ORD-0221,2025-01-18,North,Online,Bluetooth Speaker,Electronics,2,3280.9,0.05,6561.8,328.09,6233.71
+ORD-0222,2025-06-07,East,Retail Store,Mechanical Keyboard,Accessories,3,2370.6,0.1,7111.8,711.18,6400.62
+ORD-0223,2025-06-02,West,Online,USB-C Hub,Accessories,1,1851.39,0,1851.39,0.0,1851.39
+ORD-0224,2025-04-14,East,Online,Office Chair,Furniture,2,7059.26,0.15,14118.52,2117.78,12000.74
+ORD-0225,2025-01-15,Central,Retail Store,Office Chair,Furniture,3,7276.75,0,21830.25,0.0,21830.25
+ORD-0226,2025-12-16,East,Marketplace,Monitor 24-inch,Electronics,5,8695.42,0.15,43477.1,6521.56,36955.54
+ORD-0227,2025-10-22,North,Marketplace,Study Desk,Furniture,4,6135.75,0.1,24543.0,2454.3,22088.7
+ORD-0228,2025-11-30,East,Marketplace,Monitor 24-inch,Electronics,3,9043.96,0,27131.88,0.0,27131.88
+ORD-0229,2025-11-21,North,Marketplace,Notebook Set,Stationery,3,250.11,0.1,750.33,75.03,675.3
+ORD-0230,2025-11-28,North,Marketplace,Wireless Mouse,Accessories,4,840.55,0.1,3362.2,336.22,3025.98
+ORD-0231,2025-11-03,West,Retail Store,Wireless Mouse,Accessories,4,834.25,0,3337.0,0.0,3337.0
+ORD-0232,2025-03-03,South,Retail Store,Study Desk,Furniture,3,5829.26,0,17487.78,0.0,17487.78
+ORD-0233,2025-04-26,West,Marketplace,Office Chair,Furniture,2,7936.53,0.05,15873.06,793.65,15079.41
+ORD-0234,2025-01-05,South,Retail Store,Mechanical Keyboard,Accessories,1,2491.39,0.15,2491.39,373.71,2117.68
+ORD-0235,2025-11-26,East,Retail Store,USB-C Hub,Accessories,2,1853.78,0.15,3707.56,556.13,3151.43
+ORD-0236,2025-05-27,North,Retail Store,Webcam HD,Electronics,4,2776.33,0.15,11105.32,1665.8,9439.52
+ORD-0237,2025-07-12,Central,Marketplace,Monitor 24-inch,Electronics,2,9046.09,0.15,18092.18,2713.83,15378.35
+ORD-0238,2025-12-27,South,Marketplace,Headphones,Electronics,3,2113.77,0.05,6341.31,317.07,6024.24
+ORD-0239,2025-06-19,South,Online,Notebook Set,Stationery,1,256.16,0,256.16,0.0,256.16
+ORD-0240,2025-08-24,Central,Retail Store,USB-C Hub,Accessories,2,1997.12,0,3994.24,0.0,3994.24
+ORD-0241,2025-08-27,East,Marketplace,Headphones,Electronics,1,2084.03,0.05,2084.03,104.2,1979.83
+ORD-0242,2025-02-16,West,Retail Store,Office Chair,Furniture,1,7799.19,0.05,7799.19,389.96,7409.23
+ORD-0243,2025-12-23,East,Retail Store,Mechanical Keyboard,Accessories,4,2502.33,0.15,10009.32,1501.4,8507.92
+ORD-0244,2025-02-16,Central,Online,Mechanical Keyboard,Accessories,3,2560.69,0,7682.07,0.0,7682.07
+ORD-0245,2025-05-07,East,Marketplace,Monitor 24-inch,Electronics,5,9484.06,0.05,47420.3,2371.02,45049.28
+ORD-0246,2025-12-11,Central,Retail Store,Bluetooth Speaker,Electronics,1,3461.46,0.05,3461.46,173.07,3288.39
+ORD-0247,2025-09-04,North,Marketplace,Bluetooth Speaker,Electronics,4,3398.22,0.15,13592.88,2038.93,11553.95
+ORD-0248,2025-03-07,West,Online,Bluetooth Speaker,Electronics,3,3104.19,0.1,9312.57,931.26,8381.31
+ORD-0249,2025-11-13,Central,Online,Monitor 24-inch,Electronics,4,9204.41,0.15,36817.64,5522.65,31294.99
+ORD-0250,2025-02-05,South,Online,Wireless Mouse,Accessories,1,811.11,0,811.11,0.0,811.11
+ORD-0251,2025-01-11,North,Retail Store,Headphones,Electronics,1,2021.39,0,2021.39,0.0,2021.39
+ORD-0252,2025-01-27,South,Online,Laptop Stand,Accessories,5,1297.87,0,6489.35,0.0,6489.35
+ORD-0253,2025-07-11,Central,Marketplace,Headphones,Electronics,1,1887.74,0,1887.74,0.0,1887.74
+ORD-0254,2025-09-02,West,Online,Headphones,Electronics,5,2094.09,0,10470.45,0.0,10470.45
+ORD-0255,2025-02-23,North,Online,Bluetooth Speaker,Electronics,4,3241.79,0,12967.16,0.0,12967.16
+ORD-0256,2025-04-06,North,Online,Wireless Mouse,Accessories,2,774.1,0.15,1548.2,232.23,1315.97
+ORD-0257,2025-06-06,East,Online,Wireless Mouse,Accessories,2,842.13,0,1684.26,0.0,1684.26
+ORD-0258,2025-07-19,West,Online,Laptop Stand,Accessories,4,1357.58,0,5430.32,0.0,5430.32
+ORD-0259,2025-06-22,North,Online,Monitor 24-inch,Electronics,2,8723.43,0.15,17446.86,2617.03,14829.83
+ORD-0260,2025-03-12,North,Online,Webcam HD,Electronics,4,2802.76,0,11211.04,0.0,11211.04
+ORD-0261,2025-11-05,West,Marketplace,Headphones,Electronics,4,2086.68,0,8346.72,0.0,8346.72
+ORD-0262,2025-03-30,Central,Online,Desk Organizer,Stationery,5,481.26,0,2406.3,0.0,2406.3
+ORD-0263,2025-04-08,West,Marketplace,Laptop Stand,Accessories,4,1351.96,0,5407.84,0.0,5407.84
+ORD-0264,2025-02-21,North,Online,Notebook Set,Stationery,4,245.05,0,980.2,0.0,980.2
+ORD-0265,2025-10-26,West,Online,Desk Organizer,Stationery,5,523.85,0,2619.25,0.0,2619.25
+ORD-0266,2025-12-07,Central,Retail Store,Webcam HD,Electronics,4,2736.54,0.05,10946.16,547.31,10398.85
+ORD-0267,2025-01-29,North,Retail Store,Webcam HD,Electronics,4,2905.07,0,11620.28,0.0,11620.28
+ORD-0268,2025-09-13,East,Marketplace,Webcam HD,Electronics,5,2962.72,0,14813.6,0.0,14813.6
+ORD-0269,2025-08-26,South,Retail Store,Laptop Stand,Accessories,3,1334.05,0.15,4002.15,600.32,3401.83
+ORD-0270,2025-03-02,West,Retail Store,Headphones,Electronics,2,1942.77,0.1,3885.54,388.55,3496.99
+ORD-0271,2025-03-19,Central,Online,Notebook Set,Stationery,2,234.8,0.15,469.6,70.44,399.16
+ORD-0272,2025-01-08,South,Online,Notebook Set,Stationery,2,238.67,0.05,477.34,23.87,453.47
+ORD-0273,2025-05-31,West,Marketplace,USB-C Hub,Accessories,4,1903.91,0,7615.64,0.0,7615.64
+ORD-0274,2025-01-13,North,Marketplace,Office Chair,Furniture,5,7088.81,0.05,35444.05,1772.2,33671.85
+ORD-0275,2025-03-03,West,Online,Notebook Set,Stationery,5,254.1,0.15,1270.5,190.57,1079.93
+ORD-0276,2025-06-02,Central,Online,Mechanical Keyboard,Accessories,3,2487.77,0,7463.31,0.0,7463.31
+ORD-0277,2025-02-23,South,Retail Store,Laptop Stand,Accessories,2,1274.51,0,2549.02,0.0,2549.02
+ORD-0278,2025-10-30,,Marketplace,Monitor 24-inch,Electronics,4,9525.26,0,38101.04,0.0,38101.04
+ORD-0279,2025-03-13,South,Online,Headphones,Electronics,4,2033.29,0,8133.16,0.0,8133.16
+ORD-0280,2025-12-19,South,Marketplace,Desk Organizer,Stationery,4,479.53,0,1918.12,0.0,1918.12
+ORD-0281,2025-06-26,South,Online,Webcam HD,Electronics,1,2645.12,0.1,2645.12,264.51,2380.61
+ORD-0282,2025-04-20,East,Online,Notebook Set,Stationery,4,245.79,0.15,983.16,147.47,835.69
+ORD-0283,2025-05-14,West,Retail Store,Laptop Stand,Accessories,2,1267.14,0.1,2534.28,253.43,2280.85
+ORD-0284,2025-06-14,East,Online,Wireless Mouse,Accessories,1,834.38,0,834.38,0.0,834.38
+ORD-0285,2025-01-27,West,Online,Study Desk,Furniture,1,5778.49,0.1,5778.49,577.85,5200.64
+ORD-0286,2025-08-31,East,Online,Mechanical Keyboard,Accessories,1,2577.7,0,2577.7,0.0,2577.7
+ORD-0287,2025-05-01,Central,Retail Store,Office Chair,Furniture,3,7424.98,0,22274.94,0.0,22274.94
+ORD-0288,2025-01-19,North,Online,Desk Organizer,Stationery,5,527.79,0.1,2638.95,263.89,2375.06
+ORD-0289,2025-06-16,North,Online,Bluetooth Speaker,Electronics,2,3254.23,0,6508.46,0.0,6508.46
+ORD-0290,2025-11-18,South,Online,Wireless Mouse,Accessories,2,784.7,0,1569.4,0.0,1569.4
+ORD-0291,2025-07-01,North,Online,USB-C Hub,Accessories,1,2007.88,0.05,2007.88,100.39,1907.49
+ORD-0292,2025-05-20,North,Marketplace,Notebook Set,Stationery,2,253.53,0.15,507.06,76.06,431.0
+ORD-0293,2025-04-19,Central,Online,Bluetooth Speaker,Electronics,1,3108.03,0.15,3108.03,466.2,2641.83
+ORD-0294,2025-04-20,East,Online,Notebook Set,Stationery,4,258.75,0,1035.0,0.0,1035.0
+ORD-0295,2025-02-28,South,Marketplace,Study Desk,Furniture,2,5765.02,0,11530.04,0.0,11530.04
+ORD-0296,2025-09-25,Central,Retail Store,Office Chair,Furniture,4,7489.03,0,29956.12,0.0,29956.12
+ORD-0297,2025-09-06,East,Retail Store,Webcam HD,Electronics,1,2870.6,0.05,2870.6,143.53,2727.07
+ORD-0298,2025-03-29,East,Marketplace,Bluetooth Speaker,Electronics,4,3373.39,0.15,13493.56,2024.03,11469.53
+ORD-0299,2025-03-19,North,Marketplace,Bluetooth Speaker,Electronics,2,3271.47,0.1,6542.94,654.29,5888.65
+ORD-0300,2025-12-28,West,Retail Store,USB-C Hub,Accessories,5,1855.8,0.1,9279.0,927.9,8351.1
+ORD-0301,2025-07-25,Central,Online,Wireless Mouse,Accessories,3,759.52,0.1,2278.56,227.86,2050.7
+ORD-0302,2025-07-20,East,Marketplace,Study Desk,Furniture,1,5884.2,0.05,5884.2,294.21,5589.99
+ORD-0303,2025-07-21,North,Retail Store,Monitor 24-inch,Electronics,4,9075.49,0,36301.96,0.0,36301.96
+ORD-0304,2025-08-07,West,Marketplace,Bluetooth Speaker,Electronics,2,3181.55,0,6363.1,0.0,6363.1
+ORD-0305,2025-11-05,West,Online,USB-C Hub,Accessories,4,1977.44,0.15,7909.76,1186.46,6723.3
+ORD-0306,2025-01-06,East,Retail Store,Desk Organizer,Stationery,5,485.91,0.1,2429.55,242.96,2186.59
+ORD-0307,2025-11-03,North,Retail Store,Bluetooth Speaker,Electronics,1,3283.0,0,3283.0,0.0,3283.0
+ORD-0308,2025-08-02,West,Marketplace,Notebook Set,Stationery,2,258.75,0,517.5,0.0,517.5
+ORD-0309,2025-01-03,West,Retail Store,Headphones,Electronics,3,1999.92,0.1,5999.76,599.98,5399.78
+ORD-0310,2025-02-10,Central,Marketplace,Webcam HD,Electronics,3,2650.58,0.15,7951.74,1192.76,6758.98
+ORD-0311,2025-03-31,South,Online,Wireless Mouse,Accessories,2,792.36,0.15,1584.72,237.71,1347.01
+ORD-0312,2025-10-25,East,Online,Office Chair,Furniture,5,7417.85,0.1,37089.25,3708.93,33380.32
+ORD-0313,2025-11-12,Central,Marketplace,Headphones,Electronics,1,1880.67,0,1880.67,0.0,1880.67
+ORD-0314,2025-11-03,Central,Online,Headphones,Electronics,4,1886.12,0,7544.48,0.0,7544.48
+ORD-0315,2025-03-27,West,Marketplace,Wireless Mouse,Accessories,4,841.4,0,3365.6,0.0,3365.6
+ORD-0316,2025-03-16,West,Marketplace,Desk Organizer,Stationery,5,487.77,0.05,2438.85,121.94,2316.91
+ORD-0317,2025-03-15,East,Online,Wireless Mouse,Accessories,4,777.57,0,3110.28,0.0,3110.28
+ORD-0318,2025-02-02,West,Retail Store,Headphones,Electronics,4,1981.01,0.05,7924.04,396.2,7527.84
+ORD-0319,2025-04-18,West,Retail Store,USB-C Hub,Accessories,2,1883.48,0,3766.96,0.0,3766.96
+ORD-0320,2025-08-18,East,Online,Desk Organizer,Stationery,2,486.22,0,972.44,0.0,972.44
+ORD-0321,2025-05-29,West,Retail Store,Bluetooth Speaker,Electronics,4,3488.3,0.15,13953.2,2092.98,11860.22
+ORD-0322,2025-03-10,Central,Marketplace,Office Chair,Furniture,3,7105.85,0,21317.55,0.0,21317.55
+ORD-0323,2025-01-19,West,Marketplace,Laptop Stand,Accessories,2,1232.41,0,2464.82,0.0,2464.82
+ORD-0324,2025-07-22,South,Retail Store,Notebook Set,Stationery,4,238.76,0.15,955.04,143.26,811.78
+ORD-0325,2025-02-15,North,Online,Laptop Stand,Accessories,5,1371.06,0,6855.3,0.0,6855.3
+ORD-0326,2025-10-17,North,Marketplace,Bluetooth Speaker,Electronics,4,3248.1,0,12992.4,0.0,12992.4
+ORD-0327,2025-03-07,South,Online,Office Chair,Furniture,5,7183.53,0.05,35917.65,1795.88,34121.77
+ORD-0328,2025-09-09,East,Retail Store,Bluetooth Speaker,Electronics,2,3253.58,0.05,6507.16,325.36,6181.8
+ORD-0329,2025-10-19,West,Online,Notebook Set,Stationery,2,236.97,0.1,473.94,47.39,426.55
+ORD-0330,2025-06-01,North,Marketplace,Monitor 24-inch,Electronics,2,9387.69,0.1,18775.38,1877.54,16897.84
+ORD-0331,2025-08-07,North,Online,Study Desk,Furniture,3,5641.81,0.05,16925.43,846.27,16079.16
+ORD-0332,2025-05-30,Central,Retail Store,Monitor 24-inch,Electronics,5,8902.68,0.05,44513.4,2225.67,42287.73
+ORD-0333,2025-07-04,North,Online,Office Chair,Furniture,5,7345.21,0.05,36726.05,1836.3,34889.75
+ORD-0334,2025-08-23,East,Marketplace,Office Chair,Furniture,3,7340.13,0.15,22020.39,3303.06,18717.33
+ORD-0335,2025-03-01,North,Retail Store,Wireless Mouse,Accessories,1,827.98,0,827.98,0.0,827.98
+ORD-0336,2025-08-08,South,Retail Store,Wireless Mouse,Accessories,3,804.2,0,2412.6,0.0,2412.6
+ORD-0337,2025-09-19,Central,Retail Store,Study Desk,Furniture,1,5877.78,0.15,5877.78,881.67,4996.11
+ORD-0338,2025-02-03,East,Marketplace,Wireless Mouse,Accessories,1,762.06,0,762.06,0.0,762.06
+ORD-0339,2025-05-27,North,Retail Store,Bluetooth Speaker,Electronics,3,3126.63,0.1,9379.89,937.99,8441.9
+ORD-0340,2025-09-07,South,Online,Monitor 24-inch,Electronics,2,9141.67,0.15,18283.34,2742.5,15540.84
+ORD-0341,2025-01-26,North,Marketplace,Office Chair,Furniture,2,7310.69,0.05,14621.38,731.07,13890.31
+ORD-0342,2025-11-09,Central,Marketplace,USB-C Hub,Accessories,-1,1931.18,0.15,1931.18,289.68,1641.5
+ORD-0343,2025-01-31,North,Retail Store,Bluetooth Speaker,Electronics,5,3232.17,0.15,16160.85,2424.13,13736.72
+ORD-0344,2025-04-02,West,Marketplace,Laptop Stand,Accessories,4,1254.65,0,5018.6,0.0,5018.6
+ORD-0345,2025-10-17,North,Retail Store,Headphones,Electronics,5,2083.96,0.05,10419.8,520.99,9898.81
+ORD-0346,2025-09-26,East,Retail Store,Monitor 24-inch,Electronics,3,8749.16,0,26247.48,0.0,26247.48
+ORD-0347,2025-09-18,Central,Marketplace,Wireless Mouse,Accessories,3,776.67,0.15,2330.01,349.5,1980.51
+ORD-0348,2025-01-24,East,Retail Store,Study Desk,Furniture,4,5902.09,0.05,23608.36,1180.42,22427.94
+ORD-0349,2025-03-12,West,Online,Monitor 24-inch,Electronics,2,8753.08,0.15,17506.16,2625.92,14880.24
+ORD-0350,2025-09-24,East,Retail Store,Webcam HD,Electronics,2,2640.79,0.05,5281.58,264.08,5017.5
+ORD-0351,2025-02-11,North,Retail Store,Laptop Stand,Accessories,3,1344.51,0.1,4033.53,403.35,3630.18
+ORD-0352,2025-10-27,West,Marketplace,Study Desk,Furniture,3,5937.38,0,17812.14,0.0,17812.14
+ORD-0353,2025-11-15,South,Online,Notebook Set,Stationery,1,253.68,0.05,253.68,12.68,241.0
+ORD-0354,2025-08-27,North,Retail Store,Desk Organizer,Stationery,1,482.34,0.05,482.34,24.12,458.22
+ORD-0355,2025-05-21,Central,Marketplace,Headphones,Electronics,4,1971.62,0.1,7886.48,788.65,7097.83
+ORD-0356,2025-11-26,East,Marketplace,Webcam HD,Electronics,5,2811.63,0,14058.15,0.0,14058.15
+ORD-0357,2025-12-23,North,Online,Bluetooth Speaker,Electronics,1,3271.7,0.15,3271.7,490.75,2780.95
+ORD-0358,2025-11-30,West,Marketplace,Office Chair,Furniture,3,7930.64,0,23791.92,0.0,23791.92
+ORD-0359,2025-11-21,East,Online,Monitor 24-inch,Electronics,4,8572.13,0,34288.52,0.0,34288.52
+ORD-0360,2025-10-26,North,Marketplace,Office Chair,Furniture,3,7706.1,0.05,23118.3,1155.91,21962.39
+ORD-0361,2025-01-31,Central,Online,Study Desk,Furniture,4,5914.26,0.05,23657.04,1182.85,22474.19
+ORD-0362,2025-09-11,North,Online,USB-C Hub,Accessories,3,1876.12,0.1,5628.36,562.84,5065.52
+ORD-0363,2025-03-17,Central,Retail Store,Wireless Mouse,Accessories,2,831.17,0.15,1662.34,249.35,1412.99
+ORD-0364,2025-03-07,South,Marketplace,Office Chair,Furniture,3,7068.96,0.15,21206.88,3181.03,18025.85
+ORD-0365,2025-07-08,West,Marketplace,Office Chair,Furniture,4,7772.42,0.15,31089.68,4663.45,26426.23
+ORD-0366,2025-02-02,Central,Retail Store,Headphones,Electronics,4,2002.13,0.15,8008.52,1201.28,6807.24
+ORD-0367,2025-10-20,North,Retail Store,Desk Organizer,Stationery,5,515.36,0.1,2576.8,257.68,2319.12
+ORD-0368,2025-11-01,East,Retail Store,Headphones,Electronics,5,1954.98,0.05,9774.9,488.75,9286.15
+ORD-0369,2025-08-08,East,Marketplace,Wireless Mouse,Accessories,3,843.56,0.05,2530.68,126.53,2404.15
+ORD-0370,2025-09-28,Central,Marketplace,Laptop Stand,Accessories,4,1230.23,0.1,4920.92,492.09,4428.83
+ORD-0371,2025-09-10,South,Retail Store,Notebook Set,Stationery,3,236.14,0,708.42,0.0,708.42
+ORD-0372,2025-06-05,East,Marketplace,Notebook Set,Stationery,4,248.67,0,994.68,0.0,994.68
+ORD-0373,2025-04-13,South,Online,Webcam HD,Electronics,3,2906.74,0,8720.22,0.0,8720.22
+ORD-0374,2025-02-06,South,Marketplace,Desk Organizer,Stationery,1,479.29,0.1,479.29,47.93,431.36
+ORD-0375,2025-01-28,East,Marketplace,Laptop Stand,Accessories,3,1274.18,0.1,3822.54,382.25,3440.29
+ORD-0376,2025-01-22,East,Marketplace,Headphones,Electronics,4,2000.6,0.1,8002.4,800.24,7202.16
+ORD-0377,2025-06-04,North,Retail Store,Monitor 24-inch,Electronics,4,8553.44,0.15,34213.76,5132.06,29081.7
+ORD-0378,2025-10-26,Central,Online,Desk Organizer,Stationery,2,481.86,0.15,963.72,144.56,819.16
+ORD-0379,2025-03-13,East,Retail Store,Headphones,Electronics,1,2088.28,0.1,2088.28,208.83,1879.45
+ORD-0380,2025-03-05,North,Online,Study Desk,Furniture,3,5869.08,0,17607.24,0.0,17607.24
+ORD-0381,2025-06-16,West,Online,Desk Organizer,Stationery,2,507.08,0.1,1014.16,101.42,912.74
+ORD-0382,2025-07-26,East,Retail Store,Webcam HD,Electronics,4,2793.28,0.05,11173.12,558.66,10614.46
+ORD-0383,2025-04-11,East,Retail Store,USB-C Hub,Accessories,2,1822.73,0,3645.46,0.0,3645.46
+ORD-0384,2025-03-11,South,Marketplace,Notebook Set,Stationery,4,237.49,0.1,949.96,95.0,854.96
+ORD-0385,2025-08-18,North,Marketplace,Bluetooth Speaker,Electronics,3,3218.15,0,9654.45,0.0,9654.45
+ORD-0386,2025-08-01,South,Online,Bluetooth Speaker,Electronics,2,3164.33,0.15,6328.66,949.3,5379.36
+ORD-0387,2025-06-03,Central,Online,Laptop Stand,Accessories,2,1310.92,0.05,2621.84,131.09,2490.75
+ORD-0388,2025-09-18,West,Retail Store,Mechanical Keyboard,Accessories,3,2638.51,0.15,7915.53,1187.33,6728.2
+ORD-0389,2025-05-30,South,Marketplace,Mechanical Keyboard,Accessories,3,2463.69,0.15,7391.07,1108.66,6282.41
+ORD-0390,2025-08-30,South,Online,Mechanical Keyboard,Accessories,2,2556.89,0.05,5113.78,255.69,4858.09
+ORD-0391,2025-12-30,North,Online,Bluetooth Speaker,Electronics,2,3247.08,0.1,6494.16,649.42,5844.74
+ORD-0392,2025-12-14,Central,Retail Store,Office Chair,Furniture,4,7403.23,0,29612.92,0.0,29612.92
+ORD-0393,2025-10-05,South,Retail Store,Laptop Stand,Accessories,3,1364.55,0.15,4093.65,614.05,3479.6
+ORD-0394,2025-02-08,West,Retail Store,Wireless Mouse,Accessories,3,802.75,0,2408.25,0.0,2408.25
+ORD-0395,2025-10-25,North,Marketplace,Bluetooth Speaker,Electronics,4,3229.12,0,12916.48,0.0,12916.48
+ORD-0396,2025-09-19,North,Retail Store,Laptop Stand,Accessories,1,1373.58,0,1373.58,0.0,1373.58
+ORD-0397,2025-02-04,East,Retail Store,Bluetooth Speaker,Electronics,4,3444.8,0.05,13779.2,688.96,13090.24
+ORD-0398,2025-04-02,Central,Marketplace,Study Desk,Furniture,2,6249.17,0,12498.34,0.0,12498.34
+ORD-0399,2025-09-25,East,Retail Store,Laptop Stand,Accessories,1,1244.32,0,1244.32,0.0,1244.32
+ORD-0400,2025-11-10,South,Online,Wireless Mouse,Accessories,5,801.12,0.15,4005.6,600.84,3404.76
+ORD-0401,2025-09-15,East,Marketplace,Bluetooth Speaker,Electronics,2,3414.96,0,6829.92,0.0,6829.92
+ORD-0402,2025-01-02,South,Online,Study Desk,Furniture,4,6294.07,0,25176.28,0.0,25176.28
+ORD-0403,2025-08-14,East,Marketplace,Monitor 24-inch,Electronics,3,9402.37,0,28207.11,0.0,28207.11
+ORD-0404,2025-05-03,East,Online,Bluetooth Speaker,Electronics,3,3207.48,0.1,9622.44,962.24,8660.2
+ORD-0405,2025-11-04,South,Marketplace,Desk Organizer,Stationery,3,506.23,0.05,1518.69,75.93,1442.76
+ORD-0406,2025-11-08,North,Marketplace,USB-C Hub,Accessories,5,1804.83,0.15,9024.15,1353.62,7670.53
+ORD-0407,2025-04-10,Central,Retail Store,Study Desk,Furniture,4,6094.21,0,24376.84,0.0,24376.84
+ORD-0408,2025-04-19,West,Marketplace,Wireless Mouse,Accessories,2,785.99,0.1,1571.98,157.2,1414.78
+ORD-0409,2025-01-04,North,Retail Store,Monitor 24-inch,Electronics,4,9281.78,0.15,37127.12,5569.07,31558.05
+ORD-0410,2025-02-28,West,Retail Store,Office Chair,Furniture,5,7746.4,0,38732.0,0.0,38732.0
+ORD-0411,2025-02-28,Central,Marketplace,USB-C Hub,Accessories,3,1917.51,0,5752.53,0.0,5752.53
+ORD-0412,2025-04-05,West,Online,Monitor 24-inch,Electronics,4,9205.37,0.05,36821.48,1841.07,34980.41
+ORD-0413,2025-08-30,North,Marketplace,Laptop Stand,electronics,1,1222.31,0.15,1222.31,183.35,1038.96
+ORD-0414,2025-07-16,West,Retail Store,USB-C Hub,Accessories,4,1836.62,0.1,7346.48,734.65,6611.83
+ORD-0415,2025-05-23,South,Retail Store,Monitor 24-inch,Electronics,2,8777.44,0.1,17554.88,1755.49,15799.39
+ORD-0416,2025-11-22,North,Retail Store,Notebook Set,Stationery,1,240.21,0.05,240.21,12.01,228.2
+ORD-0417,2025-12-22,North,Retail Store,Study Desk,Furniture,1,5751.78,0.1,5751.78,575.18,5176.6
+ORD-0418,2025-12-18,North,Retail Store,Office Chair,Furniture,2,7351.06,0,14702.12,0.0,14702.12
+ORD-0419,2025-03-18,West,Marketplace,Mechanical Keyboard,Accessories,4,2494.27,0.05,9977.08,498.85,9478.23
+ORD-0420,2025-07-03,Central,Marketplace,Office Chair,Furniture,2,7068.01,0.1,14136.02,1413.6,12722.42
+ORD-0421,2025-12-31,Central,Marketplace,Mechanical Keyboard,Accessories,5,2571.15,0.15,12855.75,1928.36,10927.39
+ORD-0422,2025-04-10,North,Retail Store,Notebook Set,Stationery,2,251.62,0,503.24,0.0,503.24
+ORD-0423,2025-09-01,North,Retail Store,Wireless Mouse,Accessories,5,772.52,0,3862.6,0.0,3862.6
+ORD-0424,2025-06-25,West,Marketplace,Headphones,Electronics,1,1890.35,0.1,1890.35,189.03,1701.32
+ORD-0425,2025-07-13,West,Marketplace,Headphones,Electronics,4,2096.19,0.05,8384.76,419.24,7965.52
+ORD-0426,2025-08-20,Central,Marketplace,Notebook Set,Stationery,2,246.94,0.1,493.88,49.39,444.49
+ORD-0427,2025-03-02,South,Retail Store,Headphones,Electronics,4,2047.8,0.1,8191.2,819.12,7372.08
+ORD-0428,2025-03-06,Central,Retail Store,Laptop Stand,Accessories,4,1374.51,0.05,5498.04,274.9,5223.14
+ORD-0429,2025-12-26,Central,Online,Webcam HD,Electronics,1,2777.45,0,2777.45,0.0,2777.45
+ORD-0430,2025-08-13,East,Retail Store,Monitor 24-inch,Electronics,3,8759.15,0.1,26277.45,2627.75,23649.7
+ORD-0431,2025-09-10,West,Retail Store,Headphones,Electronics,2,2030.86,0,4061.72,0.0,4061.72
+ORD-0432,2025-12-08,South,Online,Laptop Stand,Accessories,4,1327.97,0.1,5311.88,531.19,4780.69
+ORD-0433,2025-06-06,North,Online,Bluetooth Speaker,Electronics,4,3322.27,0,13289.08,0.0,13289.08
+ORD-0434,2025-09-17,South,Online,Laptop Stand,Accessories,2,1295.32,0,2590.64,0.0,2590.64
+ORD-0435,2025-06-13,East,Online,Bluetooth Speaker,Electronics,1,3329.11,0.05,3329.11,166.46,3162.65
+ORD-0436,2025-04-03,West,Marketplace,Mechanical Keyboard,Accessories,4,2493.38,0.15,9973.52,1496.03,8477.49
+ORD-0437,2025-12-29,North,Retail Store,Bluetooth Speaker,Electronics,3,3491.41,0,10474.23,0.0,10474.23
+ORD-0438,2025-04-29,South,Retail Store,Webcam HD,Electronics,4,2661.22,0.05,10644.88,532.24,10112.64
+ORD-0439,2025-12-17,West,Retail Store,USB-C Hub,Accessories,3,1928.38,0.05,5785.14,289.26,5495.88
+ORD-0440,2025-02-27,West,Online,Headphones,Electronics,3,1909.94,0.1,5729.82,572.98,5156.84
+ORD-0441,2025-01-27,South,Retail Store,Mechanical Keyboard,Accessories,2,2545.98,0,5091.96,0.0,5091.96
+ORD-0442,2025-07-19,West,Retail Store,USB-C Hub,Accessories,4,1890.39,0.15,7561.56,1134.23,6427.33
+ORD-0443,2025-12-03,North,Retail Store,Webcam HD,Electronics,4,2836.24,0.1,11344.96,1134.5,10210.46
+ORD-0444,2025-10-31,East,Marketplace,Office Chair,Furniture,4,7112.43,0,28449.72,0.0,28449.72
+ORD-0445,2025-10-18,North,Marketplace,Mechanical Keyboard,Accessories,5,2551.02,0.15,12755.1,1913.26,10841.84
+ORD-0446,2025-11-02,West,Retail Store,Laptop Stand,Accessories,4,1328.7,0.15,5314.8,797.22,4517.58
+ORD-0447,2025-11-09,Central,Online,Webcam HD,Electronics,2,2733.14,0,5466.28,0.0,5466.28
+ORD-0448,2025-01-24,Central,Retail Store,Bluetooth Speaker,Electronics,4,3482.15,0,13928.6,0.0,13928.6
+ORD-0449,2025-11-27,Central,Online,Study Desk,Furniture,5,5996.86,0,29984.3,0.0,29984.3
+ORD-0450,2025-07-30,East,Online,Desk Organizer,Stationery,3,527.13,0.05,1581.39,79.07,1502.32
+ORD-0451,2025-11-02,South,Retail Store,Headphones,Electronics,3,1882.54,0.05,5647.62,282.38,5365.24
+ORD-0452,2025-03-27,West,Online,Mechanical Keyboard,Accessories,5,2363.09,0.1,11815.45,1181.55,10633.9
+ORD-0453,2025-10-01,Central,Online,Webcam HD,Electronics,3,2748.01,0,8244.03,0.0,8244.03
+ORD-0454,2025-05-29,West,Retail Store,Headphones,Electronics,1,2068.95,0.15,2068.95,310.34,1758.61
+ORD-0455,2025-02-14,East,Marketplace,Study Desk,Furniture,2,5881.74,0.1,11763.48,1176.35,10587.13
+ORD-0456,2025-12-09,South,Marketplace,Desk Organizer,Stationery,4,475.42,0.15,1901.68,285.25,1616.43
+ORD-0457,2025-03-10,North,Marketplace,Webcam HD,Electronics,2,2821.46,0.05,5642.92,282.15,5360.77
+ORD-0458,2025-08-17,Central,Marketplace,Office Chair,Furniture,1,7545.97,0.1,7545.97,754.6,6791.37
+ORD-0459,2025-09-11,South,Marketplace,Bluetooth Speaker,Electronics,3,3327.9,0.05,9983.7,499.19,9484.51
+ORD-0460,2025-12-05,South,Marketplace,Study Desk,Furniture,3,5730.94,0.05,17192.82,859.64,16333.18
+ORD-0460,2025-06-25,North,Marketplace,Wireless Mouse,Accessories,3,823.07,0,2469.21,0.0,2469.21
+ORD-0462,2025-08-13,South,Marketplace,Webcam HD,Electronics,1,2697.01,0.05,2697.01,134.85,2562.16
+ORD-0463,2025-02-15,Central,Online,Headphones,Electronics,2,1976.31,0,3952.62,0.0,3952.62
+ORD-0464,2025-11-03,North,Marketplace,Desk Organizer,Stationery,3,499.88,0.1,1499.64,149.96,1349.68
+ORD-0465,2025-08-11,North,Online,USB-C Hub,Accessories,1,1844.68,0,1844.68,0.0,1844.68
+ORD-0466,2025-05-01,West,Retail Store,Monitor 24-inch,Electronics,2,8975.76,0.05,17951.52,897.58,17053.94
+ORD-0467,2025-04-14,Central,Retail Store,Wireless Mouse,Accessories,1,755.27,0.05,755.27,37.76,717.51
+ORD-0468,2025-11-18,Central,Marketplace,Study Desk,Furniture,4,5964.08,0.05,23856.32,1192.82,22663.5
+ORD-0469,2025-09-05,North,Marketplace,Notebook Set,Stationery,1,254.74,0,254.74,0.0,254.74
+ORD-0470,2025-02-21,Central,Marketplace,Wireless Mouse,Accessories,2,763.86,0,1527.72,0.0,1527.72
+ORD-0471,2025-04-16,West,Retail Store,Wireless Mouse,Accessories,4,827.01,0.05,3308.04,165.4,3142.64
+ORD-0472,2025-02-11,South,Marketplace,USB-C Hub,Accessories,2,1962.98,0.1,3925.96,392.6,3533.36
+ORD-0473,2025-12-30,East,Online,Headphones,Electronics,2,2044.34,0,4088.68,0.0,4088.68
+ORD-0474,2025-04-14,North,Retail Store,Mechanical Keyboard,Accessories,4,2507.76,0,10031.04,0.0,10031.04
+ORD-0475,2025-06-09,North,Online,Laptop Stand,Accessories,2,1283.15,0.1,2566.3,256.63,2309.67
+ORD-0476,2025-02-16,North,Marketplace,USB-C Hub,Accessories,1,2001.58,0,2001.58,0.0,2001.58
+ORD-0477,2025-07-14,North,Marketplace,Webcam HD,Electronics,4,2680.57,0,10722.28,0.0,10722.28
+ORD-0478,2025-06-16,Central,Online,Monitor 24-inch,Electronics,5,9221.41,0,46107.05,0.0,46107.05
+ORD-0479,2025-06-19,West,Retail Store,Wireless Mouse,Accessories,4,759.64,0,3038.56,0.0,3038.56
+ORD-0480,2025-08-17,West,Retail Store,Webcam HD,Electronics,1,2953.26,0,2953.26,0.0,2953.26
+ORD-0481,2025-12-25,Central,Online,USB-C Hub,Accessories,3,1805.43,0.15,5416.29,812.44,4603.85
+ORD-0482,2025-03-04,South,Retail Store,Bluetooth Speaker,Electronics,4,3118.51,0,12474.04,0.0,12474.04
+ORD-0483,2025-11-26,West,Online,Notebook Set,Stationery,5,253.33,0,1266.65,0.0,1266.65
+ORD-0484,2025-07-12,South,Marketplace,Study Desk,Furniture,2,6254.64,0,12509.28,0.0,12509.28
+ORD-0485,2025-06-18,East,Marketplace,Mechanical Keyboard,Accessories,1,2399.92,0,2399.92,0.0,2399.92
+ORD-0486,2025-11-09,North,Retail Store,USB-C Hub,Accessories,3,1821.52,0.05,5464.56,273.23,5191.33
+ORD-0487,2025-05-07,West,Online,Mechanical Keyboard,Accessories,2,2631.01,0.05,5262.02,263.1,4998.92
+ORD-0488,2025-02-23,East,Retail Store,Wireless Mouse,Accessories,5,836.91,0,4184.55,0.0,4184.55
+ORD-0489,2025-10-16,Central,Marketplace,Desk Organizer,Stationery,5,476.34,0.1,2381.7,238.17,2143.53
+ORD-0490,2025-06-16,East,Online,Laptop Stand,Accessories,1,1354.93,0.15,1354.93,203.24,1151.69
+ORD-0491,2025-03-02,West,Marketplace,Office Chair,Furniture,1,7749.89,0,7749.89,0.0,7749.89
+ORD-0492,2025-09-07,East,Online,Study Desk,Furniture,2,6095.3,0.15,12190.6,1828.59,10362.01
+ORD-0493,2025-02-24,North,Retail Store,Study Desk,Furniture,3,5970.97,0.1,17912.91,1791.29,16121.62
+ORD-0494,2025-02-26,North,Retail Store,Mechanical Keyboard,Accessories,2,2635.81,0,5271.62,0.0,5271.62
+ORD-0495,2025-10-09,East,Marketplace,Bluetooth Speaker,Electronics,3,3238.93,0.05,9716.79,485.84,9230.95
+ORD-0496,2025-02-04,South,Retail Store,Desk Organizer,Stationery,3,472.28,0.1,1416.84,141.68,1275.16
+ORD-0497,2025-01-15,Central,Retail Store,Desk Organizer,Stationery,5,513.82,0,2569.1,0.0,2569.1
+ORD-0498,2025-04-23,North,Marketplace,Office Chair,Furniture,5,7890.41,0.05,39452.05,1972.6,37479.45
+ORD-0499,2025-02-22,East,Retail Store,Desk Organizer,Stationery,1,470.53,0.1,470.53,47.05,423.48
+ORD-0500,2025-10-07,North,Retail Store,Bluetooth Speaker,Electronics,5,3360.5,0.15,16802.5,2520.38,14282.12
