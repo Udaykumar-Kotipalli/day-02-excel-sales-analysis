@@ -26,8 +26,5 @@ Duplicate order IDs and non-positive quantities are removed. Text fields are sta
 
 **Important:** This is synthetic practice data, not real company data. Some formulas and charts recalculate when opened in Excel or LibreOffice.
 
-## GitHub repo name
-`day-02-excel-sales-analysis`
-
 ## Skills
 Excel data cleaning, formulas, COUNTIF/SUMIF/SUMIFS, KPI reporting, charting, dashboard design, business interpretation.
